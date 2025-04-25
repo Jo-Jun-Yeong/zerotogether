@@ -39,7 +39,6 @@ week: CSS 및 프론트엔드 개발, 테스트 피드백 반영
 * CSS
 * JavaScript
 * AJAX
-* Thymeleaf
 
 ## 주요기술
 * IAMPORT 결제 API
