@@ -29,7 +29,7 @@ week: CSS 및 프론트엔드 개발, 테스트 피드백 반영
 
 ### Back-end
 * Java8
-* Spring BOot 2.7.7
+* Spring Boot 2.7.7
 * Oracle database 11g Express E
 * Mybatis
 
