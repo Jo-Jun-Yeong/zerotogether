@@ -1,5 +1,5 @@
 # Spring Boot React 
-제로 투게더(Zero Together)
+제로 동행(Zero Together)
 제로 웨이스트 및 업사이클링 정보 제공 및 정보 공유 웹 사이트 입니다.
 
 ![image](https://github.com/user-attachments/assets/76b20d2a-d1be-4251-88ba-10f6805fe3eb)
